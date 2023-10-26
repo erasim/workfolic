@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/workfolic/static/css/main.7e52123a.css",
+    "main.js": "/workfolic/static/js/main.b65bd316.js",
+    "static/js/787.23c6953e.chunk.js": "/workfolic/static/js/787.23c6953e.chunk.js",
+    "static/media/image.jpg": "/workfolic/static/media/image.c994a2fcd5194d477fee.jpg",
+    "index.html": "/workfolic/index.html",
+    "main.7e52123a.css.map": "/workfolic/static/css/main.7e52123a.css.map",
+    "main.b65bd316.js.map": "/workfolic/static/js/main.b65bd316.js.map",
+    "787.23c6953e.chunk.js.map": "/workfolic/static/js/787.23c6953e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e52123a.css",
+    "static/js/main.b65bd316.js"
+  ]
+}
