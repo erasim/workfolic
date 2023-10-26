@@ -1,0 +1,97 @@
+/** @format */
+
+.App {
+	text-align: center;
+
+	margin: 15%;
+}
+.workfolic {
+	display: flex;
+}
+.Main-left {
+	width: 50%;
+
+	border-radius: 10px;
+	margin: 2px;
+}
+.main-Right {
+	padding: 20px;
+	width: 50%;
+	border-radius: 10px;
+	border: 1px solid green;
+	margin: 2px;
+	justify-items: center;
+}
+Form {
+	width: 60%;
+	margin: auto;
+	padding: 10px;
+}
+#divTwo {
+	margin: 10px;
+}
+.mb-3 input {
+	margin-top: 10px;
+}
+.Main-left {
+	background: #161411;
+}
+.slider-main {
+	text-align: center;
+}
+
+.slider-header {
+	font-size: 4rem;
+	color: antiquewhite;
+}
+.slider-header p {
+	color: antiquewhite;
+}
+.card-main {
+	border: 1px solid black;
+	width: 60%;
+	margin: auto;
+	height: 200px;
+	border-radius: 20px;
+}
+.card-upper {
+	height: 70%;
+	color: antiquewhite;
+	border-bottom: 1px solid green;
+	font-family: sans-serif;
+	padding: 10px;
+}
+.card-lower {
+	padding-top: 10px;
+}
+.card-lower-pic {
+	width: 45px;
+	border-radius: 50%;
+	margin-right: 10px;
+}
+.card-lower-profile {
+	font-size: 15px;
+
+	font-family: "Times New Roman", Times, serif;
+	position: relative;
+	top: -10px;
+	color: antiquewhite;
+}
+.card-lower-designaion {
+	font-size: 15px;
+	font-family: "Times New Roman", Times, serif;
+	position: relative;
+	top: 7px;
+	right: 118px;
+	color: antiquewhite;
+}
+.carousel-indicators {
+	position: relative;
+	top: 250px;
+}
+.carousel-control-next-icon {
+	background-image: none;
+}
+.carousel-control-prev-icon {
+	background-image: none;
+}
